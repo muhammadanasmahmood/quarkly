@@ -23,7 +23,11 @@ export default {
 	"mode": "production",
 	"projectType": "create-react-app",
 	"site": {
-		"styles": {},
-		"seo": {}
+		"styles": {
+			"display": ""
+		},
+		"seo": {
+			"title": ""
+		}
 	}
 }
