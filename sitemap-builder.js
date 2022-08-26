@@ -33,6 +33,6 @@ class UniqueSitemap extends Sitemap {
 
 (
     new UniqueSitemap(router())
-        .build('https://example.com')
+        .build('https://interstellerr.netlify.app')
         .save('./public/sitemap-index.xml')
 );
